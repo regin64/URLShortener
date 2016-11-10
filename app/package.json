@@ -1,5 +1,5 @@
 {
-  "name": "full-stack-tinyurl",
+  "name": "URLShortener",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zhewangjoe/full-stack-tinyurl.git"
+    "url": "git+https://github.com/regin64/URLShortener.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zhewangjoe/full-stack-tinyurl/issues"
+    "url": "https://github.com/regin64/URLShortener/issues"
   },
-  "homepage": "https://github.com/zhewangjoe/full-stack-tinyurl#readme",
+  "homepage": "https://github.com/regin64/URLShortener#readme",
   "dependencies": {
     "angular-chart.js": "^1.0.3",
     "body-parser": "^1.15.2",
